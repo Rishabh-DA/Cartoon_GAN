@@ -6,7 +6,7 @@ Dataset used - https://www.kaggle.com/datasets/paulrohan2020/cartoonset100k
 
 
 Dataset Sample-
-![alt text](https://github.com/Rishabh-DA/Cartoon_GAN/sample_dataset.png?raw=true)
+![alt text](https://github.com/Rishabh-DA/Cartoon_GAN/blob/main/sample_dataset.png?raw=true)
 
 Generated sample-
-![alt text](https://github.com/Rishabh-DA/Cartoon_GAN/generated_sample.png?raw=true)
+![alt text](https://github.com/Rishabh-DA/Cartoon_GAN/blob/main/generated_sample.png?raw=true)
